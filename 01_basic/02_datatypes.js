@@ -17,3 +17,8 @@ let IsloggedIn = true
 //boolean = true/false
 //null = standalone value
 //undefined
+
+//object
+
+console.log(typeof null) // object
+console.log(typeof undefined) //undefined
