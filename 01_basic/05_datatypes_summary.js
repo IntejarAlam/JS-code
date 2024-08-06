@@ -14,5 +14,25 @@ const anotherId = Symbol('123')
 
 console.log(id == anotherId)
 
+const bigNumber =  1263787872397837396n  //BigInt
+console.log(bigNumber)
+
 //***********Reference (Non Primitive)*********
-// Aray, Objects, Functions
+// Array, Objects, Functions
+
+// Array
+const car = ["BMW", "Audi", "Tesla"];
+
+//Object
+let myObj = {
+    name: "Alam",
+    age: "25",
+}
+
+//Function
+const myFunction = function(){
+    console.log("Hello World");
+
+}
+
+// https://262.ecma-international.org/5.1/#sec-11.4.3
