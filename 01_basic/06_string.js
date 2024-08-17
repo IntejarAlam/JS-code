@@ -1,7 +1,7 @@
 const name = "Alam"
 const repoCount = 50
 
-// console.log(name + repoCount + " Value");
+// console.log(name + repoCount + " Value"); //not use in modern day
 
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
